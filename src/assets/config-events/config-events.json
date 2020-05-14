@@ -1,0 +1,66 @@
+[
+    {
+        "date": "2020-05-16T07:22Z",
+        "type": "task",
+        "title": "Acheter Bières",
+        "for": "Pour soirée boulot"
+    },
+    {
+        "date": "2020-05-15T16:00Z",
+        "end": "2020-05-15T17:30Z",
+        "type": "event",
+        "title": "Aniv Justine",
+        "adress": "Café Charbone",
+        "city": "Paris",
+        "organisator": "Thomas"
+    },
+    {
+        "date": "2020-05-15T10:00Z",
+        "end": "2020-05-15T11:30Z",
+        "type": "event",
+        "title": "Petit dej équipe",
+        "adress": "Beaubourg",
+        "city": "Paris",
+        "organisator": "Daniel"
+    },
+    {
+        "date": "2020-05-15T20:30Z",
+        "type": "carshare",
+        "title": "Week-end Normandie",
+        "adress": "Casino",
+        "city": "Normandie",
+        "organisator": "Romain"
+    },
+    {
+        "date": "2020-05-18T07:22Z",
+        "type": "carshare",
+        "title": "Aniv Justine",
+        "adress": "Les Halles",
+        "city": "Paris",
+        "organisator": "Romain"
+    },
+    {
+        "date": "2020-05-18T17:00Z",
+        "end": "2020-05-18T17:30Z",
+        "type": "event",
+        "title": "Reunion design",
+        "adress": "Café Charbone",
+        "city": "Paris",
+        "organisator": "Daniel"
+    },
+    {
+        "date": "2020-05-18T07:22Z",
+        "type": "task",
+        "title": "Faire les course",
+        "for": "Dîner"
+    },
+    {
+        "date": "2020-05-13T10:00Z",
+        "end": "2020-05-13T11:30Z",
+        "type": "event",
+        "title": "Bonjour",
+        "adress": "Café Charbone",
+        "city": "Paris",
+        "organisator": "Daniel"
+    }
+]
